@@ -1,0 +1,13 @@
+.bi.bi-clipboard-plus {
+    font-size: 3rem;
+    position: fixed;
+    top: 88%;
+    z-index: 999;
+    left: 90%;
+    transform: translateX(-80%);
+}
+
+.bi-clipboard-plus::before {
+     background: white;
+     cursor: pointer;
+}
